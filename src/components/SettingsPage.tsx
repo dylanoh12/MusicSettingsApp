@@ -11,10 +11,10 @@ export const SettingsPage = () => {
           <section className="bg-zinc-900 rounded-lg p-4">
             <div className="flex items-center space-x-4">
               <div className="w-16 h-16 rounded-full bg-gradient-to-r from-purple-500 to-blue-500 flex items-center justify-center">
-                <span className="text-2xl">JD</span>
+                <span className="text-2xl">AF</span>
               </div>
               <div>
-                <h2 className="font-semibold">John Doe</h2>
+                <h2 className="font-semibold">AF Music app</h2>
                 <p className="text-sm text-zinc-400">Premium Plan</p>
               </div>
               <ChevronRight className="ml-auto text-zinc-400" size={20} />
