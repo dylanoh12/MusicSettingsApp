@@ -10,7 +10,7 @@ export const SettingsPage = () => {
           {/* Profile Section */}
           <section className="bg-zinc-900 rounded-lg p-4">
             <div className="flex items-center space-x-4">
-              <div className="w-16 h-16 rounded-full bg-gradient-to-r from-purple-500 to-blue-500 flex items-center justify-center">
+              <div className="w-16 h-16 rounded-full bg-gradient-to-r from-orange-500 to-black-500 flex items-center justify-center">
                 <span className="text-2xl">AF</span>
               </div>
               <div>
